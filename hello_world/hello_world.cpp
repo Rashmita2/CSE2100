@@ -17,7 +17,7 @@
 int main(int argc, char **argv)
 {
     // print message to console
-    std::cout << "Hello World!" << std::endl;
+    std::cout << "Hello World!, with edits" << std::endl;
 
     // terminate the program
     return 0;
